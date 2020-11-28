@@ -1,5 +1,5 @@
 mainSections = ["posts"]
-description = "Eureka is a elegant and powerful theme for Hugo."
+description = "Blog sobre Desenvolvimento e afins"
 
 repoURL = ""
 # If it is a Github repo, leave blank
@@ -17,7 +17,7 @@ publisherName = "C. Wang"
 publisherLogo = ""
 
 [hero]
-  slogan = "Informando e Compartilhando Conhecimentos sobre Desenvolvimento de Software e afins"
+  slogan = "Compartilhando Conhecimentos sobre Desenvolvimento de Software e afins"
   # Specify the image name in `assets/images/` folder.
 
   imgRight = "images/logo.png"
