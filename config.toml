@@ -1,0 +1,4 @@
+baseURL = "localhost:1313"
+languageCode = "pt"
+title = "Somos 2 Dev"
+theme = "eureka"
